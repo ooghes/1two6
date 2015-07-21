@@ -1,0 +1,1 @@
+1two6 is a CSM simulator to perform a statistic studies in the Blackjack game and it's write in Java.
